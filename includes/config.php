@@ -15,7 +15,7 @@ define('TEMPLATES_PATH', BASE_PATH.DIR_SEPERATOR.'templates'.DIR_SEPERATOR);
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASSWORD','');
-define('DB_NAME','photo_gallery');
+define('DB_NAME','quiz');
 
 
 
