@@ -15,5 +15,7 @@ To load the sql or populate the database with table
   to import the table you can choose either GUI tools such as PHPMyadmin...
   to import the sql file to the database use the following command from command line or terminal respective to the OS
   I am showing it using windows as I operate using windows7, I assume the command must be fine for the unix based OS
+  
   C:\xampp\mysql\bin>mysql -u root -p <dbanme> < D:\quiz.sql
+  
   Please replace  the dbname with your dbname.
